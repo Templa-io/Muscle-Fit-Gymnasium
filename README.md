@@ -46,6 +46,10 @@ Here are some related projects you may find interesting:
 The Muscle-Fit-GYM Management Website is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the LICENSE file for more details.
 
 ## Context and Inspiration:
+![Insta 6 1](https://github.com/your-username/repo-name/raw/main/Muscle-Fit-Gymnasium/src/images/insta6_1.png)
+
+![3-Frame 48](https://github.com/your-username/repo-name/raw/main/Muscle-Fit-Gymnasium/src/images/3-Frame48.png)
+
 The Muscle-Fit GYM Management Website was born out of a deep passion for fitness and the desire to create a platform that empowers individuals on their fitness journeys. Inspired by the transformative power of routines and the intersection of mental and physical well-being, we set out to develop a comprehensive solution that goes beyond a traditional gym management system.
 
 Our project aimed to bring context and personalization to the application, enabling users to track their workouts, access class schedules, manage personal training sessions, and monitor their progress. We wanted to create a website that not only provides essential functionalities but also fosters a sense of community, motivation, and growth.
