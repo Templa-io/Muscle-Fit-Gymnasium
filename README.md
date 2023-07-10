@@ -46,7 +46,7 @@ Here are some related projects you may find interesting:
 The Muscle-Fit-GYM Management Website is released under the [MIT License](https://opensource.org/licenses/MIT). Please review the LICENSE file for more details.
 
 ## Context and Inspiration:
-![Insta 6 1](https://github.com/Templa-io/Muscle-Fit-Gymnasium/src/images/insta6_1.png)
+![Insta 6 1](https://github.com/Templa-io/Muscle-Fit-Gymnasium/blob/master/src/images/insta%206%201.png)
 
 ![3-Frame 48](https://github.com/Templa-io/Muscle-Fit-Gymnasium/src/images/3-Frame48.png)
 
